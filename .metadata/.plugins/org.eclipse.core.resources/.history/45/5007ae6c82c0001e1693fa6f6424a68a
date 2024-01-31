@@ -1,0 +1,33 @@
+/*
+ Ép kiểu: ép kiểu ngầm định - ép kiểu tường minh
+ 	- Chuyển đổi các kiểu dữ liệu cơ bản: (new type) value;
+ 	- Chuyển đổi các kiểu dữ liệu đối tượng: (new class) object;
+ 	- Chuyển kiểu dữ liệu cơ bản sang đối tượng (ngược lại): int intObject = new Integer(32;
+ */
+public class Test {
+	public static void main(String[] args) {
+		int a = 100;
+		int b = 3;		
+		System.out.println("a = " + a);
+		System.out.println("b = " + b);
+		
+//		ép kiểu ngầm định
+		float c = a;
+		float d = b;		
+		System.out.println("c = " + c);
+		System.out.println("d = " + d);
+		
+//		ép kiểu tường minh
+		float e = 5.5f; // kiểu float phải có f
+		float f = 10.5f; // mặc định là double
+		System.out.println("e = " + e);
+		System.out.println("f = " + f);
+		
+		float g = (int)e;
+		float h = (int)f;		
+		System.out.println("g = " + g);
+		System.out.println("h = " + h);
+		
+		
+	}
+}

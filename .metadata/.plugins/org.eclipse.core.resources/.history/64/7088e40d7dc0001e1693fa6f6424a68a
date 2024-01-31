@@ -1,0 +1,10 @@
+
+public class ViDu {
+	public static void main(String[] args) {
+		String message = "Xin chào";
+		String fullName = "Phi Khong Hoang";
+		String source = "Java basic";
+		
+		System.out.println("Thông báo: " + message);
+	}
+}

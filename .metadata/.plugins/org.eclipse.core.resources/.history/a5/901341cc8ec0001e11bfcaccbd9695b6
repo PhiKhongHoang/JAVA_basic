@@ -1,0 +1,15 @@
+//mảng
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(system.in);
+		
+		int[] arr;
+		int arr1[];
+		int []arr2;
+		
+		arr = new int[10]; // tạo mảng int có 10 phần tử
+	}
+}

@@ -1,0 +1,14 @@
+/* 
+Nhập dữ liệu từ bàn phím: Scanner
+ 	nextBoolean()
+ 	nextByte()
+ 	nextDouble()
+ 	nextFloat()
+ 	nextInt()
+ 	nextLine(): đọc 1 String 
+ 	nextLong()
+ 	nextShort()
+*/
+public class Test {
+	
+}

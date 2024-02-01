@@ -10,4 +10,18 @@
     <fullyQualifiedTypeName name="Ngay"/>
     <fullyQualifiedTypeName name="TacGia"/>
     <fullyQualifiedTypeName name="Sach"/>
+    <fullyQualifiedTypeName name="NgayChieu"/>
+    <fullyQualifiedTypeName name="HangSanXuat"/>
+    <fullyQualifiedTypeName name="Phim"/>
+    <fullyQualifiedTypeName name="java.net.CookieManager"/>
+    <fullyQualifiedTypeName name="ConNguoi"/>
+    <fullyQualifiedTypeName name="HocSinh"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="BabyDog"/>
+    <fullyQualifiedTypeName name="Animal"/>
+    <fullyQualifiedTypeName name="Dog"/>
+    <fullyQualifiedTypeName name="Cat"/>
+    <fullyQualifiedTypeName name="Bird"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="MyMath"/>
 </qualifiedTypeNameHistroy>

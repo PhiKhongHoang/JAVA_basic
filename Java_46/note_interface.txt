@@ -1,0 +1,8 @@
+interface:
+	- chỉ có phương thức trừu tượng và các hằng số
+	- tất cả các hằng số được mặc định ở dạng public static final (cho dù có khai báo là private, protected thì n cũng chỉ hiểu là public static)
+	- tất cả các phương thưc ở dạng public (dù có public hay không thì n cũng là public)
+
+lưu ý:
+	- 1 lớp có thể triển khai nhiều interface
+	- 1 interface có thể kế thừa 1 interface khác 

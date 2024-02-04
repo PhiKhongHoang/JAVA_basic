@@ -2,11 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.MatchException"/>
     <fullyQualifiedTypeName name="java.security.DrbgParameters.NextBytes"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="HoaDonCaPhe"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="MyDate"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Ngay"/>
     <fullyQualifiedTypeName name="TacGia"/>
     <fullyQualifiedTypeName name="Sach"/>
@@ -42,4 +40,8 @@
     <fullyQualifiedTypeName name="MayTinhBoTuiInterface"/>
     <fullyQualifiedTypeName name="SapXepInterface"/>
     <fullyQualifiedTypeName name="PhanMemMayTinh"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

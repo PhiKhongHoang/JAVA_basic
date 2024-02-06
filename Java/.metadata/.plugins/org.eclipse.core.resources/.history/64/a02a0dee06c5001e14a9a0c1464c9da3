@@ -1,0 +1,12 @@
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class JComboBoxExam extends JFrame {
+	public JComboBoxExam() {
+		super("JComboBox Exam");
+		JLabel j1 = new JLabel("Choose your class");
+		Object[] obj = {
+				"vn-01", "vn-02", "vn-03", "vn-04"	
+		};
+	}
+}

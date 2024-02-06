@@ -1,0 +1,25 @@
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
+
+public class JTextFieldExam extends JFrame {
+	public JTextFieldExam() {
+		super("JTextField Exam");
+//		Tạo JLabel user 
+		JLabel userLabel = new JLabel("Username");
+//		tạo JTextField user 
+		JTextField userText = new JTextField(20);
+//		tạo label pass
+		JLabel passLabel = new JLabel("Passwork");
+//		tạo JPassworkField pass
+		JPasswordField passText = new JPasswordField(20);
+		
+		add(userLabel);
+		add(userText);
+		add(passLabel);
+		add(passText);
+		
+		
+	}
+}

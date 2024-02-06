@@ -1,0 +1,8 @@
+import javax.swing.JFrame;
+
+public class JFrameExample1 extends JFrame {
+	public JFrameExample1() {
+//		tạo 1 Frame có tiêu đề JFrameExample1
+		supper("JFrameExample1");
+	}
+}

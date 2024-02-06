@@ -1,0 +1,15 @@
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class JLabelExam extends JFrame {
+	public JLabelExam() {
+		super("JLabelExam");
+		
+//		tạo Label
+		JLabel l1 = new JLabel("Hello kitty");
+	}
+	
+	public static void main(String[] args) {
+		new JLabelExam();
+	}
+}

@@ -1,0 +1,7 @@
+import javax.swing.JFrame;
+
+public class JFrameExample1 extends JFrame {
+	public JFrameExample1() {
+		
+	}
+}

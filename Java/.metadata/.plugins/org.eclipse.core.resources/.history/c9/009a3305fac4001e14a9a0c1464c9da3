@@ -1,0 +1,20 @@
+import javax.swing.JFrame;
+
+public class JFrameExample1 extends JFrame {
+	
+	public JFrameExample1() {
+//		thiết lập Frame có tiêu đề JFrameExample1
+		supper("JFrameExample1");
+		
+//		thiết lập kích thước Frame
+		setSize(300, 300);
+		
+//		cho phép Frame hiển thị
+		setVisible(true);
+	}
+	
+	public static void main(String[] args) {
+		new JFrameExample1();
+	}
+	
+}

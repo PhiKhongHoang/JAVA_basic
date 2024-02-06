@@ -1,0 +1,10 @@
+//tạo JFrame trực tiếp từ lớp JFrame
+
+import javax.swing.JFrame;
+
+public class JFrameExample2 {
+	public static void main(String[] args) {
+//		tạo JFrame
+		JFrame f = new JFrame("JFrameExample2");
+	}
+}

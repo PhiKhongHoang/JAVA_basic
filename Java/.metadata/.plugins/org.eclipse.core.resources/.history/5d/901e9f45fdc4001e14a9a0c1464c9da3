@@ -1,0 +1,22 @@
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class JLabelExam extends JFrame {
+	public JLabelExam() {
+		super("JLabelExam");
+		
+//		tạo Label
+		JLabel l1 = new JLabel("Hello kitty");
+//		canh Lable: top, center, bottom
+		l1.setVerticalAlignment(JLabel.TOP);
+		
+		
+		setSize(300, 300);
+		setVisible(true);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+	}
+	
+	public static void main(String[] args) {
+		new JLabelExam();
+	}
+}
